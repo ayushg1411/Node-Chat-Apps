@@ -3,14 +3,14 @@
   "version": "0.1.1",
   "description": "ysChat client developed with ReactJS and Bulma.",
   "author": {
-    "name": "Yusuf Sezer",
-    "email": "yusufsezer@mail.com",
-    "url": "https://www.yusufsezer.com/"
+    "name": "Ayush Gupta",
+    "email": "ayushguptass14@mail.com"
+    
   },
   "license": "MIT",
   "repository": {
-    "type": "git",
-    "url": "https://github.com/yusufsefasezer/ysChat.git"
+    "type": "git"
+   
   },
   "keywords": [
     "websocket-client",

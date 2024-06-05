@@ -11,7 +11,7 @@ function App() {
         <div className="hero-body">
           <div className="container">
 
-            <ChatHeader title="ysChat - WebSocket Chat" />
+            <ChatHeader title="Node Chat App - WebSocket Chat" />
             <ChatMain />
             <ChatFooter />
 
